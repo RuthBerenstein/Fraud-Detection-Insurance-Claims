@@ -1,5 +1,5 @@
 # Fraud-Detection - Insurance-Claims
-Predicts fraudulent claims
+Predicting fraudulent claims.
 
 Data preparation and analysis of insurance claims datasets. 
 Developing a ML model to predict fraudulent claims.
