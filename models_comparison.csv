@@ -1,0 +1,3 @@
+Model,ROC AUC,PR AUC
+CatBoost,0.703,0.321
+Logistic regression,0.696,0.319

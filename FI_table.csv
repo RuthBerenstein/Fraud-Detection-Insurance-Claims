@@ -1,0 +1,67 @@
+,0
+Education,19.89008518479643
+Report Delay Days,11.232214162629072
+Incurred Loss,5.840506534823794
+CREDIT_SCORE,3.5926144389124888
+MajorConviction Count in the past 48 months,2.7577500739288436
+Time between 1am to 5am,2.703160435510291
+Marital_Status,2.667586118689769
+Late_90d,2.650276868194694
+MajorConviction Count in the past 36 months,2.638724833547892
+MajorConviction Count in the past 24 months,2.356813256702156
+MinorConviction Count in the past 36 months,2.2845855402657116
+AtFaultClaim in the past 36 months,2.154738853926181
+AtFaultClaim in the past 24 months,2.0225442477173132
+NotAtFaultClaim in the past 24 months,1.9981699949782978
+Financial Claim Indicator,1.9394665976322205
+MajorConviction Count in the past 60 months,1.8787899008533935
+Number of Drivers,1.8774127001138246
+NotAtFaultClaim in the past 48 months,1.8120570738888713
+MinorConviction Count in the past 12 months,1.782447757831618
+MajorConviction Count in the past 12 months,1.6111870886414914
+AtFaultClaim in the past 48 months,1.5980742014949705
+MinorConviction Count in the past 24 months,1.5386970421058144
+NotAtFaultClaim in the past 60 months,1.5039402624486728
+MinorConviction Count in the past 48 months,1.4626371000335565
+NotAtFaultClaim in the past 12 months,1.4539817855633133
+NotAtFaultClaim in the past 36 months,1.4220286934845991
+AtFaultClaim in the past 60 months,1.3705807684269995
+Make,1.308818161201494
+MinorConviction Count in the past 60 months,1.028501052168112
+Luxury Vehicle Indicator,0.9332192348606174
+Gender,0.8485067814726077
+Exposure,0.8285742694923838
+Number of Vehicles,0.715083671086211
+Loyalty_year,0.6986527518033291
+Age,0.6775615398002542
+INCOME,0.6701320581883394
+Model Year,0.6350695875070171
+AtFaultClaim in the past 12 months,0.6204530590228389
+Model,0.6164262530844944
+Time_Rural,0.5488114506293869
+Yrs_Licensed,0.5201922750977159
+Coverage Amount,0.49593342265385076
+Seat_Belt,0.4801852332858176
+Non-Pay Cancellation Count,0.40794798304299795
+Loss Month,0.3945705021896168
+Loss Weekday,0.37840752697352087
+Time_Urban,0.29400018835913955
+Policy Age Days,0.288050471419033
+Prior insurance,0.23423580649881345
+Horse Power,0.10839537600195952
+Note rear-ended,0.10567817129653778
+Number of Billing Accounts,0.09887249101515183
+Note moderate,0.022649164706415186
+Claim Branch Number,0.0
+Product_cd,0.0
+Towing indicator,0.0
+Catastrophe Event Indicator,0.0
+Vehicle Type,0.0
+Anti-Theft Device Indicator,0.0
+Source,0.0
+Suspensions Count,0.0
+Note injury,0.0
+Note major,0.0
+Note minor,0.0
+Note sideswiped,0.0
+Note intersection,0.0
