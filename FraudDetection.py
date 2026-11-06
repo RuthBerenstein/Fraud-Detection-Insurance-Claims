@@ -10,7 +10,7 @@ import warnings
 warnings.simplefilter("error", category=RuntimeWarning)
 
 # *** Read data ***
-file = 'DataSet.xlsx'
+file = 'DataSet.xlsx' # Convert .xlsb to .xlsx
 claims = pd.read_excel(file, sheet_name='1. Claims Dataset')
 policy = pd.read_excel(file, sheet_name='2. Policy Dataset')
 vehicle = pd.read_excel(file, sheet_name='3. Vehicle Dataset')
